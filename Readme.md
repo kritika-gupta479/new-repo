@@ -17,3 +17,10 @@ Guidelines for contributing to the project.
 ## License
 
 Information about the project's license.
+## Features
+
+List of features and functionalities of the project.
+
+## Contact
+
+Information on how to get in touch with the project maintainers.
