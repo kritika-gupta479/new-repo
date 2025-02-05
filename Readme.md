@@ -24,3 +24,18 @@ List of features and functionalities of the project.
 ## Contact
 
 Information on how to get in touch with the project maintainers.
+## Acknowledgements
+
+Credits to those who have contributed to the project.
+
+## FAQ
+
+Frequently asked questions about the project.
+
+## Support
+
+Ways to get support for the project.
+
+## Roadmap
+
+Planned future updates and improvements for the project.
